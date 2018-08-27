@@ -1,6 +1,7 @@
-This project provides mysql sql convert to stored procedure for basic crud operations.
+This java swing project provides mysql sql convert to stored procedure for basic crud operations.
 
 Connection Field Definitions:
+
 -DB: DB name that you want to connect.
 -URL: Your mysql server url.
 -User Name: Your mysql username.
@@ -8,6 +9,7 @@ Connection Field Definitions:
 -Connect: Connect for mysql server.
 
 Operations Definitions:
+
 -Read: This operation creates stored procedure that corresponding sql read  for selected table. 
 -Create: This operation creates stored procedure that corresponding sql create  for selected table. 
         -Returns inserted recordId.
