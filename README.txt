@@ -1,6 +1,6 @@
 Project Configuration:
 1.Set Java SDK
-2.Set up output path "...\out\production"
+2.Set output path "...\out\production"
 
 This java swing project provides mysql sql convert to stored procedure for basic crud operations.
 Connection Field Definitions:
