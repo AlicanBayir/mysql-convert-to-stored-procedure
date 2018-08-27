@@ -1,5 +1,8 @@
-This java swing project provides mysql sql convert to stored procedure for basic crud operations.
+Project Configuration:
+1.Set Java SDK
+2.Set up output path "...\out\production"
 
+This java swing project provides mysql sql convert to stored procedure for basic crud operations.
 Connection Field Definitions:
 
 -DB: DB name that you want to connect.
